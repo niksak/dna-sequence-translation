@@ -1,7 +1,7 @@
 """Created by:   Nikos Sakellariou
    Date      :   4.17.2015
    A script about translating genetic code sequences into proteins
-   Input: The genetic code sequence in triplets and each triplet seperated space
+   Input: The genetic code sequence in triplets
    Output: The proteins coding
    Sources: http://en.wikipedia.org/wiki/DNA_codon_table
 """
